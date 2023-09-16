@@ -26,5 +26,3 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
